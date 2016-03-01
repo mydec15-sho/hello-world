@@ -1,7 +1,7 @@
 # hello-world
 
 gnome-cups-manager
-——————
+
 
 Once upon a time there was a printer who lived in the woods. He was a lonely printer, because nobody knew how to configure him. He hoped and hoped for someone to play with.
 
